@@ -1,0 +1,7 @@
+4
+A Ab
+A Bc
+A Ad
+A e
+B f
+
